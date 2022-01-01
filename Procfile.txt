@@ -1,1 +1,1 @@
-Web: gunicorn && streamline run Web_app_Penguin_Species_prediction.py
+Web: sh setup.sh && streamline run Web_app_Penguin_Species_prediction.py
